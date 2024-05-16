@@ -1,8 +1,8 @@
 id: robosats
 title: "RoboSats"
-version: 0.6.1
+version: 0.6.2
 release-notes: |
-  * Updated to v0.6.1-alpha [Release Notes](https://github.com/RoboSats/robosats/releases/tag/v0.6.1-alpha)
+  * Updated to v0.6.2-alpha [Release Notes](https://github.com/RoboSats/robosats/releases/tag/v0.6.2-alpha)
 license: mit
 wrapper-repo: "https://github.com/RoboSats/robosats-startos"
 upstream-repo: "https://github.com/RoboSats/robosats"
